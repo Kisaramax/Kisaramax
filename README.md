@@ -27,9 +27,10 @@ I'm a passionate software developer with expertise in JAVA,PHP,JS,HTML AND CSS. 
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=openjdk)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3)
 ![Appwrite](https://img.shields.io/badge/-Appwrite-black?style=flat-square&logo=appwrite)
 ![Supabase](https://img.shields.io/badge/-Supabase-black?style=flat-square&logo=Supabase)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 
 <!-- Your GitHub stats -->
 ### 📈 GitHub Stats
