@@ -14,7 +14,7 @@
 <!-- About you -->
 ### 💻 About Me
 <!-- Few lines telling about you and your interest. For example: -->
-I'm a passionate software developer with expertise in JAVA,PHP,JS,HTML AND CSS. I love building great software that protect users privacy. In my free time, I enjoy Creating Contents On Youtube.
+I'm a passionate software developer with expertise in JAVA,PHP,JS,HTML, CSS and many more. I love building great software that protect users privacy. In my free time, I love to see users use my products completely free
 
 <!-- Your tech stack -->
 ### 🛠 Tech Stack
@@ -53,6 +53,5 @@ I'm a passionate software developer with expertise in JAVA,PHP,JS,HTML AND CSS. 
 <!-- Where to find me -->
 ### 📫 Where to Find Me
 <!-- Your social media handles or website links -->
-[![Youtube](https://img.shields.io/badge/-YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCJjURfqGQjgI10HQsiQKD9g)
 [![Twitter](https://img.shields.io/badge/-TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/KmaxGamingYT)
 [![Website](https://img.shields.io/badge/-WEBSITE-000000?style=for-the-badge&logo=react&logoColor=white)](https://kmaxmods.com)
