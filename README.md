@@ -19,16 +19,21 @@ I'm a passionate software developer with expertise in JAVA,PHP,JS,HTML AND CSS. 
 <!-- Your tech stack -->
 ### 🛠 Tech Stack
 <!-- TODO: Make the icons work for your preferred languages/technologies. -->
+![Flutter](https://img.shields.io/badge/-php-black?style=flat-square&logo=php](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter))
+![SvelteKit]([https://img.shields.io/badge/-php-black?style=flat-square&logo=php](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter)](https://img.shields.io/badge/-SvelteKit-black?style=flat-square&logo=Svelte))
 ![PHP](https://img.shields.io/badge/-php-black?style=flat-square&logo=php)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+![Appwrite](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3](https://img.shields.io/badge/-Appwrite-black?style=flat-square&logo=appwrite))
+![Supabase](https://img.shields.io/badge/-Supabase-black?style=flat-square&logo=Supabase)
 
 <!-- Your GitHub stats -->
 ### 📈 GitHub Stats
 <!-- TODO: Add your GitHub stats and top languages from https://github.com/anuraghazra/github-readme-stats -->
-[![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kisaramax&show_icons=true&theme=radical)]()
+[![Kisaramax's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kisaramax&show_icons=true&theme=radical)]()
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kisaramax&layout=compact&theme=radical)]()
 
 <!-- Your accomplishments (like certifications or achievements) -->
