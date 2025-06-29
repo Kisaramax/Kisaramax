@@ -20,7 +20,7 @@ I'm a passionate software developer with expertise in JAVA,PHP,JS,HTML AND CSS. 
 ### 🛠 Tech Stack
 <!-- TODO: Make the icons work for your preferred languages/technologies. -->
 ![Flutter](https://img.shields.io/badge/-php-black?style=flat-square&logo=php](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter))
-![SvelteKit]([https://img.shields.io/badge/-php-black?style=flat-square&logo=php](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter)](https://img.shields.io/badge/-SvelteKit-black?style=flat-square&logo=Svelte))
+![SvelteKit](https://img.shields.io/badge/-php-black?style=flat-square&logo=php](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter)](https://img.shields.io/badge/-SvelteKit-black?style=flat-square&logo=Svelte))
 ![PHP](https://img.shields.io/badge/-php-black?style=flat-square&logo=php)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
