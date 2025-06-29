@@ -19,7 +19,7 @@ I'm a passionate software developer with expertise in JAVA,PHP,JS,HTML AND CSS. 
 <!-- Your tech stack -->
 ### 🛠 Tech Stack
 <!-- TODO: Make the icons work for your preferred languages/technologies. -->
-![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter))
+![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter)
 ![SvelteKit](https://img.shields.io/badge/-SvelteKit-black?style=flat-square&logo=Svelte)
 ![PHP](https://img.shields.io/badge/-php-black?style=flat-square&logo=php)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -27,7 +27,7 @@ I'm a passionate software developer with expertise in JAVA,PHP,JS,HTML AND CSS. 
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-![Appwrite](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3](https://img.shields.io/badge/-Appwrite-black?style=flat-square&logo=appwrite))
+![Appwrite](https://img.shields.io/badge/-Appwrite-black?style=flat-square&logo=appwrite)
 ![Supabase](https://img.shields.io/badge/-Supabase-black?style=flat-square&logo=Supabase)
 
 <!-- Your GitHub stats -->
