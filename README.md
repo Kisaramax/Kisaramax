@@ -14,7 +14,7 @@
 <!-- About you -->
 ### 💻 About Me
 <!-- Few lines telling about you and your interest. For example: -->
-I'm a passionate software developer with expertise in JAVA,PHP,JS,HTML, CSS and many more. I love building great software that protect users privacy. In my free time, I love to see users use my products completely free
+I'm a passionate software developer with expertise in JAVA,PHP,JS,HTML, CSS and many more. I love building great software that protect users privacy. I love to see users use my products completely free
 
 <!-- Your tech stack -->
 ### 🛠 Tech Stack
